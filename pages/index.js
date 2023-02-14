@@ -48,6 +48,10 @@ const Home=({posts})=> {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
+      <meta name="description" content="The Panun Blog is a multimedia platform aimed at providing an
+            inclusive forum for the people of Kashmir valley and beyond. Our
+            vision is to facilitate a channel of healthy discourse and debate
+            within the Kashmiri and non-Kashmiri communities"></meta>
         <title>Panun-blog</title>
         <base target="_blank"></base>
    </Head>
