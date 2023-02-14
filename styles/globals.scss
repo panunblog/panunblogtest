@@ -25,7 +25,12 @@
 
 }
 
-
+::selection {
+  background: #003138 ; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #003138 ; /* Gecko Browsers */
+}
 
 body{
     font-family: sans-serif;
@@ -37,6 +42,7 @@ body{
     // -moz-user-select: none; /* Firefox */
     // -ms-user-select: none; /* Internet Explorer/Edge */
     // user-select: none; /* Standard */
+    
     scroll-behavior: smooth;
     
 }
