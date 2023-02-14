@@ -18,7 +18,7 @@ export default function Navpg() {
         </Link>
       </li>
       <li className="nav-item">
-        <Link href="/extends/about" legacyBehavior>
+        <Link href="/extend/about" legacyBehavior>
           <a className="nav-link">About</a>
         </Link>
       </li>
