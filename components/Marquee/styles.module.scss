@@ -1,0 +1,21 @@
+@keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .marquee {
+    animation: marquee 30s linear infinite;
+    // white-space: nowrap;
+    // overflow: hidden;
+  }
+@media screen and (max-width: 866px)
+{
+    .marquee{
+        font-size: 16px;
+       
+    }
+}
