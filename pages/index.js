@@ -47,7 +47,7 @@ const Home=({posts})=> {
    <Head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-         <meta name="keywords" content="panun,panun blog, blog,blogs,kashmir,info">
+         <meta name="keywords" content="panun,panun blog, blog,blogs,kashmir,info"/>
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
       <meta name="description" content="The Panun Blog is a multimedia platform aimed at providing an
             inclusive forum for the people of Kashmir valley and beyond. Our
